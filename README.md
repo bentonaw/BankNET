@@ -58,5 +58,5 @@ Contributions are welcome! Please follow these guidelines when contributing to t
 - For suggestions and improvements, feel free to open an issue and start a discussion.
 - If you want to contribute code enhancements, fork the repository, create a new branch, and submit a pull request.
 
-Thank you for contributing to this project!
+Thank you for contributing to this project! 
 
